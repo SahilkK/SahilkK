@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I am a Fall 2021 Graduate Student at the University of Texas at Dallas pursuing a Masters degree in Computer Science<br>🔭 I’m currently looking out for Summer 2023 Full-Time opportunities in Software Engineering (Backend) and Data Analyst roles<br>👨‍💻 Worked as a Backend Software Engineering Intern at CBRE and Data Science Intern at Central Drug Research Institute (CDRI)<br>⚡ Proficient Python Programmer<br>🔗 https://linktr.ee/sahilkirpekar
+🌱 I am a Fall 2021 Graduate Student at the University of Texas at Dallas pursuing a Masters degree in Computer Science<br>🔭 I’m currently looking out for Summer 2023 Full-Time opportunities in Software Engineering (Backend) and Data Analyst roles<br>👨‍💻 Worked as a Software Engineer Intern at CBRE and Data Science Intern at Central Drug Research Institute (CDRI)<br>⚡ Proficient Python Programmer<br>🔗 https://linktr.ee/sahilkirpekar
 
 
 ## 🌐 Socials:
