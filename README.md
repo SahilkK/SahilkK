@@ -7,7 +7,7 @@
 💟 Eager to code, learn, and take on new challenges together!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kirpekar-0055a314b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-kirpekar/)
 [![LinkTree](https://img.shields.io/badge/LinkTree-%230F400B.svg?logo=linktree&logoColor=lightgreen)](https://linktr.ee/sahilkirpekar/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121212.svg?logo=github&logoColor=white)](https://github.com/SahilkK/)
 [![Website](https://img.shields.io/badge/Website-%23002b9f.svg?logo=google&logoColor=white)](https://sahilkirpekar.my.canva.site/portfolio)
